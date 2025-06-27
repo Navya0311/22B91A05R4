@@ -3,7 +3,8 @@ This is the frontend for the URL Shortener application built using React and Mat
 
 🚀 Features
 Input multiple URLs (up to 5 at a time)
- ![App Preview](./Screenshot 2025-06-27 114948.png)
+
+ ![App Preview](./Screenshot.png)
 
 Option to:
 
