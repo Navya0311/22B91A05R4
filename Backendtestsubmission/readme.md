@@ -4,7 +4,7 @@ This is the backend server for the URL Shortener application, built using Node.j
 Create short URLs with optional custom shortcode and expiry time
 
 Redirect to the original URL using the shortcode
-![App Preview](./screenshot.png)
+![App Preview](./Screenshot.png)
 
 
 Track and return analytics (click count, timestamps, referrers)
